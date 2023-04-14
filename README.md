@@ -1,3 +1,3 @@
 # oguzkagandonmez
 
-<p><font face="tahoma" size="10" color="maroon">printf("Hello, Programmer");<b>Burada bir yazı var.</b></font></p>
+<p><font face="tahoma" size="20" color="maroon"><b>printf("Hello, Programmer");</b></font></p>
