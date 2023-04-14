@@ -1,6 +1,6 @@
 # oguzkagandonmez
 
-## :space_invader: printf("Hello, Programmer"); :space_invader:
+## :space_invader: ${\color{#11C5FC}printf\color{#340BA5}(\color{#FC3066}"\color{#11FC6F}Hello, Programmer!\color{#FC3066}"\color{#340BA5})\color{#FC3066};}$ :space_invader:
 
 ## :cupid: ${\color{#FFEC36}My \space\color{#FF3687}Play \space\color{#36FF4A}Store \space\color{#5AFFD9}Account}$ :point_down:
 [<img alt="" width="32" height="32" src="https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/07/current-google-play-icon.jpg" />](https://play.google.com/store/apps/dev?id=7530952113254800524)
