@@ -1,5 +1,3 @@
-# oguzkagandonmez
-
 :space_invader: ${\color{#11C5FC}printf\color{#340BA5}(\color{#FC3066}"\color{#11FC6F}Hello, Programmer!\color{#FC3066}"\color{#340BA5})\color{#FC3066};}$ :space_invader:
 
 :point_down: :cupid: ${\color{#FFEC36}My \space\color{#FF3687}Play \space\color{#36FF4A}Store \space\color{#5AFFD9}Account}$ :cupid: 
