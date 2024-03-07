@@ -1,6 +1,8 @@
 # :space_invader: printf(''Hello, Programmer!''); :space_invader:
 
-I'm Oguz Kagan DONMEZ. I am a computer engineering student. I use my Github account to archive the codes I have written throughout my education life and to follow my progress. You can examine my codes and ask me what you wonder.
+I'm Oguz Kagan DONMEZ.
+
+I am a computer engineering student. I use my Github account to archive the codes I have written throughout my education life and to follow my progress. You can examine my codes and ask me what you wonder.
 
 My PlayStore Account
 
