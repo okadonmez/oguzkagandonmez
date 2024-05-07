@@ -26,4 +26,4 @@
 
 #
 
-                                                                                                              - One person army!
+                                                                                        - One person army!
